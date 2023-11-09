@@ -233,7 +233,7 @@ fun MainScreen() {
                 Spacer(modifier = Modifier.height(30.dp))
                 Box {
                     Text(
-                        text = "Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the \"Ancient\", whilst defending their own.",
+                        text = "DoTA 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the \"Ancient\", whilst defending their own.",
                         color = Color(0xFFEEF2FB).copy(alpha = 0.7f),
                         fontWeight = FontWeight(400),
                         fontSize = 12.sp,
